@@ -47,6 +47,15 @@ I am solving problems consistently to improve my logic building and coding skill
 - Day 35 - Remove Spaces / Count Words
 - Day 36 - Duplicate Characters
 - Day 37 - Remove Duplicates String
+- - Day 37 - Remove Duplicate Characters (String)
+- Day 38 - Anagram Check
+- Day 39 - First Non-Repeating Character
+- Day 40 - String Rotation Check
+- Day 41 - Sum of Digits (Recursion)
+- Day 42 - Power of Number (Recursion)
+- Day 43 - Linked List Create & Traverse
+- Day 44 - Insert Node at Beginning (Linked List)
+- Day 45 - Insert Node at End (Linked List)
 
 ---
 
