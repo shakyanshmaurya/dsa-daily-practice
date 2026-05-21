@@ -56,6 +56,109 @@ I am solving problems consistently to improve my logic building and coding skill
 - Day 43 - Linked List Create & Traverse
 - Day 44 - Insert Node at Beginning (Linked List)
 - Day 45 - Insert Node at End (Linked List)
+  Day 46 — Array Traversal
+
+Day 47 — Linear Search
+
+Day 48 — Find Maximum Element
+
+Day 49 — Find Minimum Element
+
+Day 50 — Array Sum
+
+Day 51 — Reverse Array
+
+Day 52 — Second Largest Element
+
+Day 53 — Check Sorted Array
+
+Day 54 — Remove Duplicates
+
+Day 55 — Move Zeroes
+
+Day 56 — Left Rotate Array
+
+Day 57 — Right Rotate Array
+
+Day 58 — Rotate Array by K
+
+Day 59 — Union of Arrays
+
+Day 60 — Intersection of Arrays
+
+Day 61 — Majority Element
+
+Day 62 — Kadane’s Algorithm
+
+Day 63 — Buy & Sell Stock
+
+Day 64 — Merge Sorted Arrays
+
+Day 65 — Missing Number
+
+Day 66 — Longest Subarray Sum K
+
+Day 67 — Sort 0s, 1s, 2s
+
+Day 68 — Find Duplicate Number
+
+Day 69 — Merge Intervals
+
+Day 70 — Next Greater Element
+
+Day 71 — Valid Parentheses
+
+Day 72 — Binary Search
+
+Day 73 — Recursive Binary Search
+
+
+
+---
+
+🔹 Sorting Algorithms
+
+Day 74 — Bubble Sort
+
+Day 75 — Selection Sort
+
+Day 76 — Insertion Sort
+
+Day 77 — Merge Sort
+
+Day 78 — Quick Sort
+
+Day 79 — Count Inversions
+
+Day 80 — Heap Sort
+
+
+
+---
+
+🔹 Heap Data Structure
+
+Day 81 — Min Heap
+
+Day 82 — Max Heap
+
+Day 83 — Priority Queue Basics
+
+Day 84 — Heap Operations
+
+Day 85 — Heapify Process
+
+Day 86 — Heap Applications
+
+Day 87 — Advanced Heap Concepts
+
+Day 88 — Heap Practice Problems
+
+Day 89 — Heap Sort Revision
+
+Day 90 — Min Heap Implementation
+
+Day 91 — Max Heap Implementation 
 
 ---
 
