@@ -1,6 +1,6 @@
 # DSA-daily-practice
 Daily DSA practice and problem solving journey.
-# 🚀 50 Days DSA Challenge (C Language)
+# 🚀 s DSA Challenge (C Language)
 
 ## 📌 About
 This repository contains my daily DSA practice using C language.  
