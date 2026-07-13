@@ -2,16 +2,13 @@
 #include <stdlib.h>
 
 struct Node {
-
     int data;
     struct Node *left;
     struct Node *right;
 };
 
 struct Node* createNode(int value) {
-
-    struct Node *newNode =
-        (struct Node*)malloc(sizeof(struct Node));
+    struct Node *newNode = (struct Node*)malloc(sizeof(struct Node));
 
     newNode->data = value;
     newNode->left = NULL;
@@ -28,11 +25,8 @@ struct Node* LCA(struct Node *root, int n1, int n2) {
     if(root->data == n1 || root->data == n2)
         return root;
 
-    struct Node *left =
-        LCA(root->left, n1, n2);
-
-    struct Node *right =
-        LCA(root->right, n1, n2);
+    struct Node *left = LCA(root->left, n1, n2);
+    struct Node *right = LCA(root->right, n1, n2);
 
     if(left && right)
         return root;
@@ -53,8 +47,7 @@ int main() {
     root->left->left = createNode(4);
     root->left->right = createNode(5);
 
-    struct Node *ans =
-        LCA(root, 4, 5);
+    struct Node *ans = LCA(root, 4, 5);
 
     printf("LCA = %d", ans->data);
 
