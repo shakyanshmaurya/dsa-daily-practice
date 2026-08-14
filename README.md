@@ -162,6 +162,8 @@ Day 91 — Max Heap Implementation
 
 Day92_Priority_Queue
 
+Day93_Binary_Tree_Intro
+
 ---
 
 ## 🎯 Goal
