@@ -164,6 +164,8 @@ Day92_Priority_Queue
 
 Day93_Binary_Tree_Intro
 
+Day94_Inorder_Traversal
+
 ---
 
 ## 🎯 Goal
